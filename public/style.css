@@ -1,0 +1,77 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-color: #071325;
+}
+
+nav {
+    background-color: #E0E7FF;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav h4 {
+    color:#071325;
+    font-weight: 600;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav li a {
+    color:#1c705f;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 0.3rem 0.5rem;
+}
+
+nav li a:hover {
+    color: #071325;
+    text-decoration: none;
+}
+
+div.container {
+    max-width: 38rem;
+    background-color: #E0E7FF;
+    padding: 0.6rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-radius: 0.5rem;
+} 
+
+.container h1 {
+    font-size: 2rem;
+    color:#071325;
+    font-weight: 600;
+}
+
+.btn.btn-primary {
+    margin-top: 0.5rem;
+    background-color: #071325;
+    border-color: #071325;
+}
+
+.btn.btn-primary:hover {
+    color:#071325;
+    background-color: #E0E7FF;
+    border-color: black;
+}
+
+.avatar-ctn {
+    background-color: orange;
+    text-align: center;
+}
+
+.avatar {
+    width: 65%;
+    border-bottom: 1px solid rgba(0, 0, 0, 0, 0.125);
+}
