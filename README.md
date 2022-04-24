@@ -35,18 +35,22 @@ The purpose of this project was to create a registration and login system for a 
 ## Project Samples:
 
 General view:
+<br/><br/>
 <img src="public\Website.gif" alt="Website general view">
 <br/><br/>
 
 Registration page:
+<br/><br/>
 <img src="public\Registration.gif" alt="User registration">
 <br/><br/>
 
 Login and Profile pags:
+<br/><br/>
 <img src="public\Login-Profile.gif" alt="User login and profile pages">
 <br/><br/>
 
 Logout:
+<br/><br/>
 <img src="public\Logout.gif" alt="User logout">
 <br/><br/>
 
