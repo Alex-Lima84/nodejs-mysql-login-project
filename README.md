@@ -50,6 +50,6 @@ Logout:
 <img src="public\Logout.gif" alt="User logout">
 <br/><br/>
 
-Thank you for visiting and fell free to contact me. :)
+Thank you for visiting and fell free to contact me. :smiley:
 
 
