@@ -1,11 +1,11 @@
 # REGISTRATION / LOGIN - PROJECT
-<br/><br/>
+
 
 The purpose of this project was to create a registration and login system for a website.
 <br/><br/>
 
 ## Applied Technology:
-<br/><br/>
+
 
 - hbs (Handlebars);
 - CSS3;
@@ -21,7 +21,7 @@ The purpose of this project was to create a registration and login system for a 
 <br/><br/>
 
 ## Project Initialization:
-<br/><br/>
+
 
 - Start the XAMPP package for Apache and MySQL;
 
@@ -33,7 +33,7 @@ The purpose of this project was to create a registration and login system for a 
 <br/><br/>
 
 ## Project Samples:
-<br/><br/>
+
 
 General view:
 <img src="public\Website.gif" alt="Website general view">
