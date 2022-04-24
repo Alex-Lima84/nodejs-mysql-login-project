@@ -34,7 +34,6 @@ The purpose of this project was to create a registration and login system for a 
 
 ## Project Samples:
 
-
 General view:
 <img src="public\Website.gif" alt="Website general view">
 <br/><br/>
@@ -52,4 +51,5 @@ Logout:
 <br/><br/>
 
 Thank you for visiting and fell free to contact me. :)
+
 
